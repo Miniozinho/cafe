@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/2017312099/Área de Trabalho/basico/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "map": [
+                {
+                    "source": "/home/2017312099/.gradle/caches/transforms-2/files-2.1/9822ec5d492b786c2180e7e8c020d7b7/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "112",
+                        "endOffsets": "163"
+                    }
+                }
+            ]
+        }
+    ]
+}

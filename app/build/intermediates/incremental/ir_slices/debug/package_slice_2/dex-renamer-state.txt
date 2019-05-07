@@ -1,0 +1,4 @@
+#Mon May 06 15:33:41 BRT 2019
+base.0=/home/2017312099/Área de Trabalho/basico/app/build/intermediates/transforms/dexMerger/debug/2
+path.0=classes.dex
+renamed.0=classes.dex
